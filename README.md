@@ -32,6 +32,6 @@ THEN the password is either displayed in an alert or written to the page
 ![Screenshot of deployed application on browser".](./assets/03-javascript-homework-demo.png)
 
 ## Deployment
-The URL of the deployed application: EDIT HERE LATER!!!!!!!!
+The URL of the deployed application: https://charltonortega.github.io/JavaScript-Challenge-Password-Generator/
 
 The URL of the GitHub repository: https://github.com/Charltonortega/JavaScript-Challenge-Password-Generator
